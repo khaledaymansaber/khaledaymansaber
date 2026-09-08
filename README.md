@@ -15,15 +15,6 @@
 * **AI & Computer Vision:** PyTorch, YOLOv8, OpenCV, Deep Learning
 * **Tools & Version Control:** Git, GitHub, Visual Studio, VS Code, Swagger, Postman, xUnit
 
----
-
-### 📊 GitHub Stats
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=khaledaymansaber&show_icons=true&theme=radical&hide_border=true" alt="Khaled's GitHub Stats" />
-</p>
-
-<!---
 khaledaymansaber/khaledaymansaber is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
