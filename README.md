@@ -15,6 +15,3 @@
 * **AI & Computer Vision:** PyTorch, YOLOv8, OpenCV, Deep Learning
 * **Tools & Version Control:** Git, GitHub, Visual Studio, VS Code, Swagger, Postman, xUnit
 
-khaledaymansaber/khaledaymansaber is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
